@@ -1,4 +1,4 @@
-Deep-Learning-Udacity
+## Deep-Learning-Udacity
 # Introduction to Deep Learning
 # Neural network (NN)
 - Create NN using algorithms like gradient descent, backpropagation to train the model with python
