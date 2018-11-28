@@ -1,6 +1,6 @@
 # Deep-Learning-Udacity
 ## Introduction to Deep Learning
-# Neural network (NN)
+## Neural network (NN)
 - Create NN using algorithms like gradient descent, backpropagation to train the model with python
 - Project1: To predict Student Admission based on UCLA students GRE,GPA,Rank
 - Project2: To predict Bike-sharing patterns on a given day
