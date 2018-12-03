@@ -2,14 +2,14 @@
 ## Introduction to Deep Learning
 ## Neural network (NN)
 - Create NN using algorithms like gradient descent, backpropagation to train the model with python.
-- Project1: To predict Student Admission based on UCLA students GRE,GPA,Rank
-- Project2: To predict Bike-sharing patterns on a given day
+- Project1: To predict Student Admission based on UCLA students GRE,GPA,Rank.
+- Project2: To predict Bike-sharing patterns on a given day.
 ## Sentiment Analysis 
-- Project3: To evaluate movie reviews
+- Project3: To evaluate movie reviews.
 ## Pytorch
 ## Convolutional neural networks (CNN)
 - Create CNN to build an autoencoder, a network architecture used for image compression and denoising using PyTorch. 
-- Project4: Classify dog breeds in pictures
+- Project4: Classify dog breeds in pictures.
 ## Recurrent neural network (RNN) 
 - Combain with word embeddings that can generate new text, character by character. 
 - Project5: Generate new TV scripts from provided existing scripts
