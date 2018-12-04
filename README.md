@@ -14,8 +14,8 @@
 - Combain with word embeddings that can generate new text, character by character
 - Project5: Generate new TV scripts from provided existing scripts
 ## Generative Adversarial Networks (GAN)
-- Implement GAN Using Cycle GAN. 
-- Project6: Use a deep convolutional GAN to generate completely new images of human faces.
+- Implement GAN Using Cycle GAN
+- Project6: Use a deep convolutional GAN to generate completely new images of human faces
 ## Deploying machine learning models on a cloud 
-- Monitor using PyTorch and Amazon's SageMaker. 
-- Project7: Deploy PyTorch sentiment analysis model and create a gateway for accessing this model from a website.
+- Monitor using PyTorch and Amazon's SageMaker
+- Project7: Deploy PyTorch sentiment analysis model and create a gateway for accessing this model from a website
