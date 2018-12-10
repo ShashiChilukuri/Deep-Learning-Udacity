@@ -7,6 +7,7 @@
 ## Sentiment Analysis 
 - Project3: To evaluate movie reviews
 ## Pytorch
+- Creating neural network with PyTorch
 ## Convolutional neural networks (CNN)
 - Create CNN to build an autoencoder, a network architecture used for image compression and denoising using PyTorch
 - Project4: Classify dog breeds in pictures
