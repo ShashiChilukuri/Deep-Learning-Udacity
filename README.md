@@ -31,7 +31,7 @@ Creating RNN, LSTM(Long Short Term Memory),Word embedding's using Skip-Gram and 
 - Project17: Sentiment Analysis with RNN
 - Project18: Generate new TV scripts from provided existing scripts
 
-## Generative Adversarial Networks (GAN)
+## Generative Adversarial Networks (GAN):
 Concepts on Generative Adversarial Networks with the model’s inventor, Ian Goodfellow, Implementing a Deep Convolutional GAN(DCGAN). Its 
 a pair of multi-layer neural networks that compete against each other until one learns to generate realistic images of faces.
 - Project19 - GAN on MNIST dataset
