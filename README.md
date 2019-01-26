@@ -39,7 +39,7 @@ a pair of multi-layer neural networks that compete against each other until one 
 - Project21 - CycleGAN for Image to Image transformation
 - Project22 - Use a deep convolutional GAN to generate completely new images of human faces
 
-## Deploying machine learning models on a cloud
+## Deploying machine learning models on a cloud:
 Creating, deploying a model on the cloud using Amazon SageMaker (for model creation,deploying), S2 (for storage), Lambda function(creating a gateway for accessing this model), API (for hosting a website)
 - Project23 - XGBoost - Predicting Home Prices using SageMaker's High Level Python API
 - Project24 - XGBoost - Predicting Home Prices using SageMaker's Low Level Python API
