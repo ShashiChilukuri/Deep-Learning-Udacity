@@ -44,4 +44,4 @@ Creating, deploying a model on the cloud using Amazon SageMaker (for model creat
 - Project23 - XGBoost - Predicting Home Prices using SageMaker's High Level Python API
 - Project24 - XGBoost - Predicting Home Prices using SageMaker's Low Level Python API
 - Project25 - XGBoost  - IMDB Sentiment Analysis using SageMaker's High Level Python API
-- Project26 - Deploy PyTorch sentiment analysis model on cloud using Amazon SageMaker and create a gateway for accessing this model from a website.
+- Project26 - Deploy PyTorch sentiment analysis model on cloud using Amazon SageMaker and create a gateway for accessing this model from a website
