@@ -2,7 +2,7 @@
 Link to projects worked on this degree https://github.com/ShashiChilukuri/Deep-Learning-Projects
 
 ## Introduction to Deep Learning
-Deep Learning concetps, Anaconda, Jupyter Notebook, Matrix math and NumPy Refresher
+Deep Learning concetps, Anaconda, Jupyter Notebook, Matrix math and NumPy Refresher.
 
 ## Artificial Neural network (ANN):
 Create ANN using algorithms like gradient descent, back-propagation to train the model with Python & PyTorch and Identifying and categorizing opinions expressed in text using Sentiment Analysis
